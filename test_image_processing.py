@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-from your_module_name import TOGRAY, face_detect  # Replace with the actual module name
+from faceREC import TOGRAY, face_detect  # Replace with the actual module name
 
 def test_TOGRAY():
     # Create a dummy color image (3x3 pixels)
